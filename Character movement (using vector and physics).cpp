@@ -1,5 +1,6 @@
-#include <iostream>
 //moving the character from one postion to another
+#include <iostream>
+
 
 //moves our character to the next position
 class vector{
