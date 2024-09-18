@@ -11,7 +11,7 @@ public:
 //position vector of the character
 class point{
 public:
-    point addvector(vector v);
+    point addvector(vector v); // this function take vector object v as it's parameter and return a new point object
     double x{}, y{}, z{};
 };
 //adding both the vector
